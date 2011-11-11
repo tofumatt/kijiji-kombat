@@ -1,0 +1,9 @@
+{
+    "description": "Firefox add-on that removes annoying shit on Kijiji.", 
+    "license": "MIT", 
+    "author": "Matthew Riley MacPherson", 
+    "version": "0.1", 
+    "fullName": "Kijiji Kombat", 
+    "id": "jid1-MHV9MBzpH1BDaQ", 
+    "name": "kijiji-kombat"
+}
